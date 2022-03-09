@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Spisok", "Spisok\Spisok.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinaryTree", "BinaryTree\BinaryTree.vcxproj", "{45428096-D7B6-4AAB-B540-9D7F29124914}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL", "STL\STL.vcxproj", "{FDABEE6C-F14A-4A5C-98BC-40C4CBF77BE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{45428096-D7B6-4AAB-B540-9D7F29124914}.Release|x64.Build.0 = Release|x64
 		{45428096-D7B6-4AAB-B540-9D7F29124914}.Release|x86.ActiveCfg = Release|Win32
 		{45428096-D7B6-4AAB-B540-9D7F29124914}.Release|x86.Build.0 = Release|Win32
+		{FDABEE6C-F14A-4A5C-98BC-40C4CBF77BE8}.Debug|x64.ActiveCfg = Debug|x64
+		{FDABEE6C-F14A-4A5C-98BC-40C4CBF77BE8}.Debug|x64.Build.0 = Debug|x64
+		{FDABEE6C-F14A-4A5C-98BC-40C4CBF77BE8}.Debug|x86.ActiveCfg = Debug|Win32
+		{FDABEE6C-F14A-4A5C-98BC-40C4CBF77BE8}.Debug|x86.Build.0 = Debug|Win32
+		{FDABEE6C-F14A-4A5C-98BC-40C4CBF77BE8}.Release|x64.ActiveCfg = Release|x64
+		{FDABEE6C-F14A-4A5C-98BC-40C4CBF77BE8}.Release|x64.Build.0 = Release|x64
+		{FDABEE6C-F14A-4A5C-98BC-40C4CBF77BE8}.Release|x86.ActiveCfg = Release|Win32
+		{FDABEE6C-F14A-4A5C-98BC-40C4CBF77BE8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
